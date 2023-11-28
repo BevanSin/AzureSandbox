@@ -204,10 +204,10 @@ It is recommended to have a separate management group called Decommissioned and 
 
 The following articles give steps on how to automate the manual processes above:
 
-Creation of subscriptions - https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/programmatically-create-subscription-enterprise-agreement?tabs=rest
-Approval process using teams - https://learn.microsoft.com/en-us/power-automate/teams/native-approvals-in-teams
-Dashboarding for operations teams - https://learn.microsoft.com/en-us/azure/azure-portal/azure-portal-dashboards
-Purview for data security - https://learn.microsoft.com/en-us/purview/concept-best-practices-accounts
+- Creation of subscriptions - https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/programmatically-create-subscription-enterprise-agreement?tabs=rest
+- Approval process using teams - https://learn.microsoft.com/en-us/power-automate/teams/native-approvals-in-teams
+- Dashboarding for operations teams - https://learn.microsoft.com/en-us/azure/azure-portal/azure-portal-dashboards
+- Purview for data security - https://learn.microsoft.com/en-us/purview/concept-best-practices-accounts
 
 ## Anti-patterns
 
